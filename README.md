@@ -8,10 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Udbhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)]([(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)))]
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)]([(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)))]
 [![Gmail Badge](https://img.shields.io/badge/-prashantsingh9162@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantsingh9162@gmail.com)](mailto:prashantsingh9162@gmail.com)  
-
-
 
 <p align="center">
   <h3>🛠 Tech Stack 🛠</h3>
