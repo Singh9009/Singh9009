@@ -8,14 +8,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)]([(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)))]
+![Linkedin Badge](https://img.shields.io/badge/-Prashant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)]([(https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)](https://www.linkedin.com/in/prashant-kumar-singh-a98503243/)))
 [![Gmail Badge](https://img.shields.io/badge/-prashantsingh9162@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantsingh9162@gmail.com)](mailto:prashantsingh9162@gmail.com)  
 
 <p align="center">
   <h3>🛠 Tech Stack 🛠</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="Java" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="SpringBoot" />
+    <img src="https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=SpringBoot" alt="SpringBoot" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB" alt="MongoDB" />
 <!--     <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" /> -->
@@ -29,5 +29,5 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" height="400px" width="450px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Singh9009&show_icons=true&locale=en&layout=compact" alt="Singh9009" height="400px" width="450px" />
 </div>
